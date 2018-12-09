@@ -1,0 +1,11 @@
+{
+    "name": "phpdev/phan_example",
+    "type": "project",
+    "require": {
+        "php": "^7.0.0",
+        "phan/phan": "^1.1"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    }
+}
