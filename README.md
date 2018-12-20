@@ -7,5 +7,5 @@ composer install
 
 ## Usage
 ```bash
-vendor/bin/phan -p
+vendor/bin/phan -p --color
 ```
